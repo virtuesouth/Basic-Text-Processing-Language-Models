@@ -1,7 +1,7 @@
 # Basic-Text-Processing-Language-Models
 
 Hello to everyone. This is my Python code for my first assignment in natural language processing. The prerequisites for the assignment were as follows.
-
+The program could be done more properly with a function or class structure.
 I used the 'add_stop_symbol' function to add stop symbols into the text. I found this function on the internet.
 
 You have to write a Python program which will perform the following tasks:
